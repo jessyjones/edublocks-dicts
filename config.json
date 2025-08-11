@@ -1,5 +1,5 @@
 {
-    "mode": "python",
+    "mode": "circuitpython",
     "code": [],
     "interpreter" : "py"
 }
